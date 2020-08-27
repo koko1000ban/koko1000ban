@@ -7,4 +7,4 @@ Hi, I'm Tabito Ohtani, software engineer working in Tokyo,Japan.
 overflow, inc CTO. [Offers](https://offers.jp/a/2c5070684d1d9cb89ddf227d7b9884c6323263711afffecbab0af62a77203329)開発中.
 
 ![koko1000ban's github stats](https://github-readme-stats.vercel.app/api?username=koko1000ban&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koko1000ban&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koko1000ban&layout=compact)
